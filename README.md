@@ -9,7 +9,7 @@ We explore behavioral patterns 🧩, detect outliers 📊, build interpretable m
 
 ## 📂 Contents
 
-- `notebook.ipynb` → Main analysis notebook  
+- `personality_analysis.ipynb` → Main analysis notebook  
 - `data/` → Dataset(s) used. link : https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data/data
 - `Personality-Prediction-Using-Social-and-Behavioral-Traits.pptx` → Slides Presentation
 - `README.md` → You’re here!  
