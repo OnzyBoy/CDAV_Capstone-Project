@@ -90,4 +90,9 @@ By analyzing patterns and building predictive models, we see clear differences b
 
 ---
 
+## ⚠️ NOTE
+
+Open the notebook in colab to test the simple dashboard 🎚️
+---
+
 🔥 Feel free to fork, contribute, or use this as a reference for your own projects!
